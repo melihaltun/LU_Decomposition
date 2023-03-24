@@ -1,6 +1,6 @@
 /**
 * @file LU.h
-* @author Melih Altun @2015-2018
+* @author Melih Altun @2015
 **/
 
 #ifndef LU_DECOMP
